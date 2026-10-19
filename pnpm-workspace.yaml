@@ -1,0 +1,8 @@
+allowBuilds:
+  esbuild: true
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@descope/user-management-widget@0.21.5'
+  - '@descope/user-profile-widget@0.19.14'
+  - '@descope/vue-sdk@3.1.19'
+  - '@descope/web-component@4.5.0'
